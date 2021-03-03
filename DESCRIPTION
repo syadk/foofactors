@@ -1,13 +1,13 @@
 Package: foofactors
-Title: What the Package Does (One Line, Title Case)
+Title: Individual assignment 2
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Syad",
+           family = "Khan",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "syad@student.ubc.ca",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+Description: This package is for individual assignment 2.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to
     pick a license
 Encoding: UTF-8
